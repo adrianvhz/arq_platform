@@ -1,4 +1,5 @@
 # PWA ArqPlatform
+## ThreeJs / Docker / PHP Bridge / TypeScript / Passport / Sequelize ORM / React / Redux
 
 ![Home](./images/home.jpg)
 
