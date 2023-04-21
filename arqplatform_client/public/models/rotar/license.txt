@@ -1,0 +1,11 @@
+Model Information:
+* title:	Window frosted glass
+* source:	https://sketchfab.com/3d-models/window-frosted-glass-3a365eee1aeb4ab496aa9315fce1ffd3
+* author:	1-3D.com (https://sketchfab.com/1-3D.com)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Window frosted glass" (https://sketchfab.com/3d-models/window-frosted-glass-3a365eee1aeb4ab496aa9315fce1ffd3) by 1-3D.com (https://sketchfab.com/1-3D.com) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shop window
+* source:	https://sketchfab.com/3d-models/shop-window-6578e778970e4719b30411c7c56427f3
+* author:	1-3D.com (https://sketchfab.com/1-3D.com)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shop window" (https://sketchfab.com/3d-models/shop-window-6578e778970e4719b30411c7c56427f3) by 1-3D.com (https://sketchfab.com/1-3D.com) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

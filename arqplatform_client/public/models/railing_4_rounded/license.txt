@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rounded edges railing 241
+* source:	https://sketchfab.com/3d-models/rounded-edges-railing-241-3d7e06947d634467936b83db991c2104
+* author:	1-3D.com (https://sketchfab.com/1-3D.com)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rounded edges railing 241" (https://sketchfab.com/3d-models/rounded-edges-railing-241-3d7e06947d634467936b83db991c2104) by 1-3D.com (https://sketchfab.com/1-3D.com) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

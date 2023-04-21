@@ -1,0 +1,103 @@
+.sidebar {
+	width: 20rem;
+	/* position: fixed; */
+	/* top: 1; */
+	/* z-index: 999999999; */
+	/* right: 0; */
+	/* border: 1px solid #EBEDF3; */
+	background-color: #ffffff;
+	background-clip: border-box;
+}
+
+.sidebar-list {
+  padding: 2.25rem;
+  margin: 0;
+  list-style: none;
+  position: relative;
+  margin-top: 0px;
+  /* text-align: center; */
+}
+
+.sidebar-item {
+  margin-bottom: 30px;
+  opacity: 0;
+  -webkit-transform: translateY(-20px);
+  -moz-transform: translateY(-20px);
+  -ms-transform: translateY(-20px);
+  -o-transform: translateY(-20px);
+  transform: translateY(-20px);
+}
+
+.sidebar-item > p {
+	margin-bottom: 1rem;
+}
+
+.sidebar-item:first-child {
+  -webkit-transition: all .7s .2s ease-in-out;
+  -moz-transition: all .7s .2s ease-in-out;
+  -ms-transition: all .7s .2s ease-in-out;
+  -o-transition: all .7s .2s ease-in-out;
+  transition: all .7s .2s ease-in-out;
+}
+
+.sidebar-item:nth-child(2) {
+  -webkit-transition: all .7s .4s ease-in-out;
+  -moz-transition: all .7s .4s ease-in-out;
+  -ms-transition: all .7s .4s ease-in-out;
+  -o-transition: all .7s .4s ease-in-out;
+  transition: all .7s .4s ease-in-out;
+}
+
+.sidebar-item:nth-child(3) {
+  -webkit-transition: all .7s .6s ease-in-out;
+  -moz-transition: all .7s .6s ease-in-out;
+  -ms-transition: all .7s .6s ease-in-out;
+  -o-transition: all .7s .6s ease-in-out;
+  transition: all .7s .6s ease-in-out;
+}
+
+.sidebar-item:last-child {
+  -webkit-transition: all .7s .8s ease-in-out;
+  -moz-transition: all .7s .8s ease-in-out;
+  -ms-transition: all .7s .8s ease-in-out;
+  -o-transition: all .7s .8s ease-in-out;
+  transition: all .7s .6s ease-in-out;
+}
+
+.sidebar-item.active {
+  opacity: 1;
+  -webkit-transform: translateY(0px);
+  -moz-transform: translateY(0px);
+  -ms-transform: translateY(0px);
+  -o-transform: translateY(0px);
+  transform: translateY(0px);
+}
+
+.sidebar-anchor {
+  color: #3F4254;
+  text-decoration: none;
+  font-size: 1.14em;
+  font-weight: 500;
+  text-transform: uppercase;
+  position: relative;
+  padding-bottom: 7px;
+}
+
+.sidebar-anchor:before {
+  content: "";
+  width: 0;
+  height: 2px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: #FFF;
+  -webkit-transition: all .7s ease-in-out;
+  -moz-transition: all .7s ease-in-out;
+  -ms-transition: all .7s ease-in-out;
+  -o-transition: all .7s ease-in-out;
+  transition: all .7s ease-in-out;
+}
+
+.sidebar-anchor:hover:before {
+  width: 100%;
+}

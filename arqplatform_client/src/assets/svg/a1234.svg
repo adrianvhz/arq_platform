@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <path d="
+    M 56.31 39.274
+    H 125.496
+    V 77.144
+    H 56.31
+    V 39.274 Z
+    
+    M 58.495 41.459
+    V 74.959
+    H 123.311
+    V 41.459
+    H 58.495 Z"
+  
+  style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" bx:shape="frame 56.31 39.274 69.186 37.87 2.185 2.185 0 0 0 0 1@5f8f6b7c"/>
+</svg>

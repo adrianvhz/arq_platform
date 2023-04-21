@@ -1,0 +1,9 @@
+export { default as authRoutes } from "./authRoutes";
+export { default as usuarioRoutes } from "./usuarioRoutes";
+export { default as projectRoutes } from "./projectRoutes";
+export { default as typeProjectRoutes } from "./typeProjectRoutes";
+export { default as zonesRoutes } from "./zonesRoutes";
+export { default as planRoutes } from "./planRoutes";
+export { default as permissionRoutes } from "./permissionRoutes";
+export { default as detailplanpermissionRoutes } from "./detailPlanPermissionRoutes";
+export { default as costsReferenceRoutes } from "./costsReference-routes";
